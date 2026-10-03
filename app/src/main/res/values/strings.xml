@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First app</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_insta_profile">InstaProfile</string>
+    <string name="title_activity_spotify">SpotifyActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+</resources>
